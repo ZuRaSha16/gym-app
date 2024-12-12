@@ -1,2 +1,2 @@
 # gym-app
- React Gym App With React
+ REACTJS-GYM-APP
